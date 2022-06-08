@@ -1,5 +1,5 @@
-#macro MAP_W 32
-#macro MAP_H 24
+#macro MAP_W room_width/TILE_W
+#macro MAP_H room_height/TILE_W
 #macro TILE_W 16
 #macro TILE_H 8
 #macro SCREEN_W 512

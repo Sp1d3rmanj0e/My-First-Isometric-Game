@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"obj_box","path":"objects/obj_box/obj_box.yy",},"order":1,},
     {"id":{"name":"screenToTIleY","path":"scripts/screenToTIleY/screenToTIleY.yy",},"order":4,},
     {"id":{"name":"screenToTileX","path":"scripts/screenToTileX/screenToTileX.yy",},"order":3,},
     {"id":{"name":"spr_tileStatic","path":"sprites/spr_tileStatic/spr_tileStatic.yy",},"order":1,},
@@ -9,6 +10,7 @@
     {"id":{"name":"spr_tile","path":"sprites/spr_tile/spr_tile.yy",},"order":0,},
     {"id":{"name":"tileToScreenY","path":"scripts/tileToScreenY/tileToScreenY.yy",},"order":2,},
     {"id":{"name":"obj_render","path":"objects/obj_render/obj_render.yy",},"order":0,},
+    {"id":{"name":"spr_box","path":"sprites/spr_box/spr_box.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [

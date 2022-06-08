@@ -1,6 +1,6 @@
 /// @description build the map
 
-//layer_set_visible("Map", false);
+layer_set_visible("Map", false);
 
 global.theMap = ds_grid_create(MAP_W, MAP_H);
 
